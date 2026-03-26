@@ -1487,5 +1487,9 @@
     "gh": "aljazceru/awesome-nostr",
     "nips": [],
     "category": "informations"
-  }
+  },{
+    "gh": "zyssglobal-max/z-nos",
+    "nips": [4],
+    "category": "clients"
+  },
 ]
